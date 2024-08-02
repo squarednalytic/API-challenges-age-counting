@@ -2,8 +2,8 @@ Age Counting Challenge
 This PHP script solves the Age Counting Challenge from Coderbyte. The challenge involves counting the number of items with an age of 50 or greater in a JSON response from a given API endpoint.
 
 Usage
-Save this script as a PHP file (e.g., age_counting.php).
-Run the script using a PHP interpreter (e.g., php age_counting.php).
+Save this script as a PHP 
+Run the script using a PHP interpreter
 The script will output the filtered count of items with an age of 50 or greater.
 Script Explanation
 The script performs the following steps:
